@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Yunfei 👋
+🎓 I'm currently a Software Engineering student @ SJSU  
 
 <!--
 **ychen1026/ychen1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
